@@ -6,6 +6,7 @@
 #
 
 FROM ubuntu:17.10
+MAINTAINER Sascha-Matthias Kulawik <sascha@kulawik.de>
 MAINTAINER Daniel Jost <d.jost@pillentaxi.de>
 
 RUN echo "Android SDK 26.0.2"
