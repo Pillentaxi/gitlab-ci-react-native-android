@@ -5,7 +5,7 @@
 # https://github.com/cuisines/gitlab-ci-react-native-android
 #
 
-FROM ubuntu:17.10
+FROM ubuntu:bionic-20180710
 MAINTAINER Sascha-Matthias Kulawik <sascha@kulawik.de>
 MAINTAINER Daniel Jost <d.jost@pillentaxi.de>
 
